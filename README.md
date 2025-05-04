@@ -3,7 +3,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-This repository contains a finite element method (FEM) solver for the scalar wave equation, developed for simulating wave propagation in 2D domains.
+This repository implements a finite element method (FEM) solver for the **scalar wave equation**:
+
+$$
+\frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u
+$$
+
+where:
+- $ u(\mathbf{x}, t) $: Scalar displacement field,
+- $ c $: Wave speed ($ \text{m/s} $),
+- $ \nabla^2 $: Laplacian operator.
 
 ## 🚀 Features
 - **Scalar wave equation solver** using quadrilateral finite elements (Q4)
