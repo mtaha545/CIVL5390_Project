@@ -14,6 +14,7 @@ This repository contains a finite element method (FEM) solver for the scalar wav
 
 ## 📊 Results
 ![Wave Propagation](fem/wave_animation.gif)
+*Figure 1: Wave (Pressure)
 
 ## 📧 Contact
 For questions, contact [Mohammad Taha](mailto:mtaha@connect.ust.hk).
