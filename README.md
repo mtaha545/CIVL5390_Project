@@ -1,3 +1,8 @@
+# Numerical Solution of the Scalar Wave Equation Using FEM
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
 This repository contains a finite element method (FEM) solver for the scalar wave equation, developed for simulating wave propagation in 2D domains.
 
 ## 🚀 Features
