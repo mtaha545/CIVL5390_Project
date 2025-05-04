@@ -9,10 +9,6 @@ $$
 \frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u
 $$
 
-where:
-- $ u(\mathbf{x}, t) $: Scalar displacement field,
-- $ c $: Wave speed ($ \text{m/s} $),
-- $ \nabla^2 $: Laplacian operator.
 
 ## 🚀 Features
 - **Scalar wave equation solver** using quadrilateral finite elements (Q4)
