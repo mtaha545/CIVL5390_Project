@@ -19,7 +19,7 @@ $$
 ## 📊 Results
 ![Wave Propagation](fem/wave_animation.gif)
 \\
-*Figure 1: Wave Displacement Field*
+*Figure 1: Wave Pressure Field*
 
 ## 📧 Contact
 For questions, contact [Mohammad Taha](mailto:mtaha@connect.ust.hk).
